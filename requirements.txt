@@ -1,4 +1,6 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 torch==2.3.0+cpu
+-f https://download.pytorch.org/whl/torch_stable.html
 torchaudio==2.3.0+cpu
 faster-whisper==1.0.0
 transformers
